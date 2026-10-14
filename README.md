@@ -1,4 +1,9 @@
 ## Hi there 👋
+# Hi, I'm Vishal
+
+I'm a product leader based in Bengaluru, India.
+
+I play badminton like a maniac, read a lot and love tech.
 
 <!--
 **vishal2dalmia/vishal2dalmia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
